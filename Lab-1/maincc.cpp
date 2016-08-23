@@ -15,6 +15,7 @@ char *keywords[32]={"int","float","double","char","do","for","while","switch","c
 
 char *idenfier[15]={"stdio.h","printf","scanf","string.h","conio.h","include","main","stdlib.h","define"};
 
+int add;
 
 
 
